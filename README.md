@@ -5,7 +5,11 @@
 ```sh
   git clone https://github.com/EvaDigital/Leadsdoit-test.git
 ```
-2. **Create .env file (use env-exemple)**
+2. **Go to project derictory**
+```sh
+  cd Leadsdoit-test/
+```
+4. **Create .env file (use env-exemple)**
 ```sh
   nano .env
 ```
