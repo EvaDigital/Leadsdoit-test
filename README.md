@@ -25,7 +25,7 @@
 All API requests should be made to:
 
 ```
-http://localhost:8080/
+http://localhost:8000/
 ```
 
 ### `/get-weather/` (GET)
