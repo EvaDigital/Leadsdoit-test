@@ -1,7 +1,7 @@
 OPEN_WEATHER_API_KEY=""  # use your token or you can set "8c142c8c2c270d8e67304394f38ac314"
 CITY=""
 GET_WEATHER_MINUTS_TIME_INTERVAL=""
-SECRET_TOKEN=""
+SECRET_TOKEN="" # use your token or you can set "IIUukhrrjMiQXI8Ep81yPO1PbB43nOAY"
 DB_NAME=""
 DB_USER=""
 DB_PASSWORD=""
