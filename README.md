@@ -15,7 +15,7 @@
 ```
 4. **Start the App**
 ```sh
-  docker-compoe up --build -d
+  docker-compose up --build -d 
 ```
 
 ### API
