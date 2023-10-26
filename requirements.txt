@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+celery
+python-dotenv
+requests
+redis
+sqlalchemy
+mysql-connector-python
+pytest 
+pytest-asyncio  
+pytest-cov
+httpx
